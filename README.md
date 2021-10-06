@@ -8,5 +8,5 @@ What functionalities does the software provide ?
 - browsing through movie data via a search bar and a genre filter
 - rating movies 
 - getting recommendations based on personal ratings
-- change the rating of rated movies
+- changing the rating of rated movies
  

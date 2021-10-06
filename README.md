@@ -1,6 +1,6 @@
 # Movie-Recommendation-System
 
-This is a conten-based movie recommendation system written in Python3 and displayed in the user's browser through Flask.
+This is a content-based movie recommendation system written in Python3 and displayed in the user's browser through Flask.
 
 This software can be used by multiple people as it is possible to sign up an account in which personal movie recommendations are saved. 
 

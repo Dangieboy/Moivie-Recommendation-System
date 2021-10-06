@@ -2,7 +2,7 @@
 
 This is a content-based movie recommendation system written in Python3 and displayed in the user's browser through Flask.
 
-This software can be used by multiple people as it is possible to sign up an account in which personal movie recommendations are saved. 
+This software can be used by multiple people at once since it allows to create user account in which personal movie rating/recommendations are saved. 
 
 What functionalities does the software provide ?
 
